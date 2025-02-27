@@ -1,23 +1,25 @@
-<h1 align="center">👋 Hi, I'm Mithushh Pushparagavan!</h1>
+<h1 align="center">👋 Hello, I'm Mithushh Pushparagavan!</h1>
 
 <p align="center">
-  <a href="https://github.com/Mithushh-Pushparagavan"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Software+Engineer+%7C+Full-Stack+Developer;React.js+%7C+Node.js+%7C+SQL;Passionate+about+Web+Development" alt="Typing SVG" /></a>
+  <a href="https://github.com/Mithushh-Pushparagavan">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Software+Engineer+%7C+Full-Stack+Developer;React.js+%7C+Node.js+%7C+SQL;Passionate+about+Web+Development" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
 
 ## 🚀 **About Me**  
-💻 Software Engineer | Web Developer | React & Node.js Enthusiast  
+💻 **Software Engineer | Full-Stack Web Developer**  
 🎓 **BSc in Information Technology** from **SLIIT**  
 🔭 **Currently:** Web Development Internship (React.js, Node.js, MUI, SQL)  
 🌱 **Learning:** Advanced Backend Development & Scalable Architectures  
-⚡ **Fun Fact:** My favorite number is **3** & I love **all types of math!**  
+⚡ **Fun Fact:** My favorite number is **3** and I’m passionate about **all types of math!**  
 
 ---
 
 ## 🛠️ **Tech Stack**
-🔹 **Languages:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+🔹 **Languages & Frameworks:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
@@ -51,11 +53,17 @@
 
 ## 🌎 **Connect with Me**
 <p align="center">
-  <a href="https://linkedin.com/in/your-LinkedIn-URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/Mithushh-Pushparagavan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/your-LinkedIn-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/Mithushh-Pushparagavan">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </p>
 
 ---
 
-⭐ **Feel free to explore my repositories and connect with me!** 🚀  
+⭐ **Feel free to explore my repositories and connect with me!** 🚀
