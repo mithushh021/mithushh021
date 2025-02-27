@@ -44,14 +44,7 @@ I'm a **Software Engineer** and **Full-Stack Developer** with a passion for crea
 
 ---
 
-## 📈 **GitHub Stats**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mithushh-Pushparagavan&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mithushh-Pushparagavan&theme=radical" alt="GitHub Streak" />
-</div>
-
----
 
 ## 🌎 **Connect with Me**
 <p align="center">
